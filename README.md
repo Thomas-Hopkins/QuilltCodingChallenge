@@ -11,8 +11,9 @@ Prompts included followed by any implementation notes.
 
 ### Notes:
 - Implementation in: `./DatabaseDesign`
-- SQL db was designed with drawSQL targeting MySQL
-- SQL script included to generate the database + tables if need be
+- Design shown in the .png image file.
+- SQL db was designed with drawSQL targeting MySQL. The prompt states to design a set of tables so I placed more emphasis on the overall design rather than writing a SQL query script.
+- SQL script is included to generate the tables if need be
 
 ## 2) API interaction
 ### Prompt:

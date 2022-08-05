@@ -56,7 +56,7 @@ if __name__ == "__main__":
     Small driver script to execute functions.
     """
     req = 0
-    while req != 4:
+    while True:
         print("1) get 200 todos.")
         print("2) create todo")
         print("3) delete a todo")
